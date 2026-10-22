@@ -1,0 +1,4 @@
+"email,password,scenario"
+"invaliduser1@example.com,WrongPass123,InvalidEmailUser"
+"invaliduser2@example.com,WrongPass456,InvalidPasswordUser"
+", ,EmptyCredentials"
